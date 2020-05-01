@@ -1,0 +1,8 @@
+name = "MsgWrap"
+uuid = "5f62e02d-fe38-401c-99fd-30e32e71e80a"
+authors = ["Daniel Cocks <daniel.cocks@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
